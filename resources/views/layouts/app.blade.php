@@ -17,6 +17,7 @@
     <div id="app">
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
+                @include('layouts._message')
                 <div class="navbar-header">
 
                     <!-- Collapsed Hamburger -->
